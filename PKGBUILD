@@ -1,7 +1,7 @@
 pkgname=firetools
 pkgver=0.9.64
 pkgrel=1
-pkgdesc='Linux namespaces and seccomp-bpf sandbox'
+pkgdesc='Graphical user interface of Firejail security sandbox.'
 arch=('x86_64')
 url='https://firejailtools.wordpress.com/'
 license=(GPL2)
